@@ -1,0 +1,624 @@
+C:\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+C:\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+G:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+E:\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+G:\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+E:\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Users\mackk\Desktop\Новый бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Users\mackk\Desktop\Новый бот(пересоздание)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.ComponentModel.Annotations.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Memory.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.dll
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Memory.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Memory.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Memory.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\Новый бот(разделение доступа)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ComponentModel.Annotations.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+G:\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Users\mackk\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Buffers.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Memory.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\ДИПЛОМНЫЙ ПРОЕКТ\bot ver 0.1\Новый бот(классы)\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe.config
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Sova-bot.pdb
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Buffers.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Memory.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.dll
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Buffers.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Memory.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Text.Json.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\System.ValueTuple.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\bin\Debug\Telegram.Bot.xml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Bot management.g.cs
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.cache
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot_MarkupCompile.lref
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Bot management.baml
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.g.resources
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova_bot.Properties.Resources.resources
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.csproj.CopyComplete
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.exe
+C:\Users\ПК\Desktop\Дипломной проект\справочный Telegram-бот\Sova-bot\Sova-bot\obj\Debug\Sova-bot.pdb
